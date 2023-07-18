@@ -1,0 +1,68 @@
+[2023/07/18 09:13:31] Config DEBUG: __init__
+[2023/07/18 09:13:31] Config DEBUG: [repo_name]: MagicRepo
+[2023/07/18 09:13:31] Config DEBUG: [repo_url]: https://github.com/oneplusx13/MagicRepo/
+[2023/07/18 09:13:31] Config DEBUG: [max_num]: 3
+[2023/07/18 09:13:31] Config DEBUG: [show_log]: True
+[2023/07/18 09:13:31] Config DEBUG: [log_dir]: /mnt/home/android/MagicRepo/log
+[2023/07/18 09:13:31] Pull DEBUG: __init__
+[2023/07/18 09:13:31] Sync DEBUG: __init__
+[2023/07/18 09:13:31] Sync INFO: create_local_tracks
+[2023/07/18 09:13:31] LocalTracks DEBUG: __init__
+[2023/07/18 09:13:31] LocalTracks INFO: get_tracks: modules_folder = /mnt/home/android/MagicRepo/modules
+[2023/07/18 09:13:31] LocalTracks INFO: get_tracks: size = 1
+[2023/07/18 09:13:31] Pull DEBUG: from_track: [Webview-Manager] -> from local zip
+[2023/07/18 09:13:31] Sync WARNING: _check_ids: [Webview-Manager] -> id is not same as in Module [bromitewebview], it will be migrated
+[2023/07/18 09:13:31] Sync INFO: update_by_ids: [bromitewebview] -> update to 10.5.4 (5058)
+[2023/07/18 09:13:31] Sync DEBUG: __del__
+[2023/07/18 09:13:31] Pull DEBUG: __del__
+[2023/07/18 09:13:31] Config DEBUG: __del__
+[2023/07/18 09:13:31] LocalTracks DEBUG: __del__
+[2023/07/18 09:13:56] Config DEBUG: __init__
+[2023/07/18 09:13:56] Config DEBUG: [repo_name]: MagicRepo
+[2023/07/18 09:13:56] Config DEBUG: [repo_url]: https://github.com/oneplusx13/MagicRepo/
+[2023/07/18 09:13:56] Config DEBUG: [max_num]: 3
+[2023/07/18 09:13:56] Config DEBUG: [show_log]: True
+[2023/07/18 09:13:56] Config DEBUG: [log_dir]: /mnt/home/android/MagicRepo/log
+[2023/07/18 09:13:56] Pull DEBUG: __init__
+[2023/07/18 09:13:56] Sync DEBUG: __init__
+[2023/07/18 09:13:56] Sync INFO: create_local_tracks
+[2023/07/18 09:13:56] LocalTracks DEBUG: __init__
+[2023/07/18 09:13:56] LocalTracks INFO: get_tracks: modules_folder = /mnt/home/android/MagicRepo/modules
+[2023/07/18 09:13:56] LocalTracks INFO: get_tracks: size = 1
+[2023/07/18 09:13:56] Sync DEBUG: __del__
+[2023/07/18 09:13:56] Pull DEBUG: __del__
+[2023/07/18 09:13:56] Config DEBUG: __del__
+[2023/07/18 09:13:56] LocalTracks DEBUG: __del__
+[2023/07/18 09:14:04] Config DEBUG: __init__
+[2023/07/18 09:14:04] Config DEBUG: [repo_name]: MagicRepo
+[2023/07/18 09:14:04] Config DEBUG: [repo_url]: https://github.com/oneplusx13/MagicRepo/
+[2023/07/18 09:14:04] Config DEBUG: [max_num]: 3
+[2023/07/18 09:14:04] Config DEBUG: [show_log]: True
+[2023/07/18 09:14:04] Config DEBUG: [log_dir]: /mnt/home/android/MagicRepo/log
+[2023/07/18 09:14:04] Pull DEBUG: __init__
+[2023/07/18 09:14:04] Sync DEBUG: __init__
+[2023/07/18 09:14:04] Sync INFO: create_local_tracks
+[2023/07/18 09:14:04] LocalTracks DEBUG: __init__
+[2023/07/18 09:14:04] LocalTracks INFO: get_tracks: modules_folder = /mnt/home/android/MagicRepo/modules
+[2023/07/18 09:14:04] LocalTracks INFO: get_tracks: size = 1
+[2023/07/18 09:14:04] Sync DEBUG: __del__
+[2023/07/18 09:14:04] Pull DEBUG: __del__
+[2023/07/18 09:14:04] Config DEBUG: __del__
+[2023/07/18 09:14:04] LocalTracks DEBUG: __del__
+[2023/07/18 09:14:13] Config DEBUG: __init__
+[2023/07/18 09:14:13] Config DEBUG: [repo_name]: MagicRepo
+[2023/07/18 09:14:13] Config DEBUG: [repo_url]: https://github.com/oneplusx13/MagicRepo/
+[2023/07/18 09:14:13] Config DEBUG: [max_num]: 3
+[2023/07/18 09:14:13] Config DEBUG: [show_log]: True
+[2023/07/18 09:14:13] Config DEBUG: [log_dir]: /mnt/home/android/MagicRepo/log
+[2023/07/18 09:14:13] Pull DEBUG: __init__
+[2023/07/18 09:14:13] Sync DEBUG: __init__
+[2023/07/18 09:14:13] Sync INFO: create_local_tracks
+[2023/07/18 09:14:13] LocalTracks DEBUG: __init__
+[2023/07/18 09:14:13] LocalTracks INFO: get_tracks: modules_folder = /mnt/home/android/MagicRepo/modules
+[2023/07/18 09:14:13] LocalTracks INFO: get_tracks: size = 1
+[2023/07/18 09:14:13] Pull DEBUG: from_track: [bromitewebview] -> from local zip
+[2023/07/18 09:14:13] Sync DEBUG: __del__
+[2023/07/18 09:14:13] Pull DEBUG: __del__
+[2023/07/18 09:14:13] Config DEBUG: __del__
+[2023/07/18 09:14:13] LocalTracks DEBUG: __del__

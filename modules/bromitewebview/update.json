@@ -1,0 +1,13 @@
+{
+  "id": "bromitewebview",
+  "versions": [
+    {
+      "timestamp": 1689689438.7076218,
+      "version": "10.5.4",
+      "versionCode": 5058,
+      "zipUrl": "https://github.com/oneplusx13/MagicRepo/modules/Webview-Manager/10.5.4_5058.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1689689438.7076218
+}
